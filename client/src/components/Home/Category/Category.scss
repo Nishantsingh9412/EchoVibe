@@ -1,0 +1,56 @@
+// @import "../../css-config/mixins.scss";
+@import '../../../css-config/mixins.scss';
+.shop-by-category{
+    margin: 25px 0px;
+    @include md{                    // For Desktop
+        margin: 50px 0px;
+    }
+    .sec-heading{
+        margin-bottom: 20px;
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+        @include md{                    // For Desktop
+            margin-bottom: 35px;
+            font-size: 24px;
+
+        }
+        &:after{
+            content: "";
+            display: block;
+            margin-top: 5px;
+            width: 50px;
+            height: 3px;
+            background-color: #8e2de2;
+            @include md{
+                 margin-top: 10px;
+            }
+
+        }
+    }
+    .categories {
+        display: flex;
+        flex-flow: wrap;
+        gap: 10px;
+
+        .category{
+            background-color: black ;
+            width: calc(50% - 5px);
+            cursor: pointer;
+            overflow: hidden;
+            @include md{                        // For Desktop
+                width: calc(25% - 10px); 
+            }
+            img{
+                width: 100%;
+                display: block;
+                transition: all ease 0.3s;
+            }
+            &:hover{
+                img{
+                    transform: scale(1.2);
+                }
+            }
+        }
+    }
+}
