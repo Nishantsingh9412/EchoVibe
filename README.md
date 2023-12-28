@@ -2,6 +2,9 @@ Echovibe is not just a name, it's a symphony of sound waiting to be experienced.
 
 Echovibe is a dynamic web project with a robust tech stack. For the frontend, it leverages React JS for responsive, interactive interfaces and utilizes Sass CSS for elegant styling. On the backend, Echovibe employs Strapi, a versatile headless CMS, for efficient content management. Seamless payment processing is ensured through integration with the Stripe Payment Gateway. Echovibe prioritizes performance optimization, security, and user-centered design. It's a user-friendly, high-performance platform that combines modern web technologies to provide an exceptional digital experience.
 
+Video Link ------ https://drive.google.com/file/d/1IEyOJ1e7_it7ZrMLRzAmhNlqZqiYgGo0/view?usp=sharing
+
+
 ![image](https://github.com/Nishantsingh9412/EchoVibe/assets/59526404/104115a5-81df-470a-9716-00d8f207ea57)
 ![image](https://github.com/Nishantsingh9412/EchoVibe/assets/59526404/6c99722e-e957-41d9-a963-f7cdf8a62d87)
 ![image](https://github.com/Nishantsingh9412/EchoVibe/assets/59526404/363c29b0-21fc-4dd4-a0cf-606950421072)
